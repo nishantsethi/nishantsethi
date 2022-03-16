@@ -1,4 +1,4 @@
-![Welcome to the GitHub profile of Nishant Sethi](https://raw.githubusercontent.com/nishantsethi/nishantsethi/main/kk.gif)
+![Welcome to the GitHub profile of Nishant Sethi](https://media2.giphy.com/media/fTI9mBoWLef8k/giphy.gif?cid=ecf05e4744caxbpbjp594suvji7hvttp3kyfbj0m10wdny6g&rid=giphy.gif)
 
 ### Elsewhere on the internet
 
