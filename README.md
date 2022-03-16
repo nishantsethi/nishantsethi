@@ -1,5 +1,10 @@
+<div align="center">
+
 ![Welcome to the GitHub profile of Nishant Sethi](https://media2.giphy.com/media/fTI9mBoWLef8k/giphy.gif?cid=ecf05e4744caxbpbjp594suvji7hvttp3kyfbj0m10wdny6g&rid=giphy.gif)
 
+</div>
+
+  
 ### Elsewhere on the internet
 
 [![Twitter](https://user-images.githubusercontent.com/282759/84680160-40c90c80-af00-11ea-8390-bb86858c5fa5.png)](https://twitter.com/sethinishant) 
